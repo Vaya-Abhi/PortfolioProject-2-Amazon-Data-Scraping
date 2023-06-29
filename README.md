@@ -8,8 +8,5 @@ Through thorough exploration and visualization of the extracted data, I identifi
 
 By documenting this data analysis project on GitHub, I hope to showcase my skills in data extraction, manipulation, and analysis using Python. This project not only demonstrates my passion for tennis but also highlights my ability to utilize data-driven insights to make informed choices.
 
-<img width="490" alt="image" src="https://github.com/Vaya-Abhi/PortfolioProject-2-Amazon-Data-Scraping/assets/10281805/a681d63d-5b0b-456b-9737-9f4961087b61">
-
-Output:
-<img width="932" alt="image" src="https://github.com/Vaya-Abhi/PortfolioProject-2-Amazon-Data-Scraping/assets/10281805/aeaaaca0-f4cc-4cb8-b0bd-fcb7e95c103d">
+<img width="490" alt="image" src="https://github.com/Vaya-Abhi/PortfolioProject-2-Amazon-Data-Scraping/assets/10281805/a681d63d-5b0b-456b-9737-9f4961087b61"><img width="932" alt="image" src="https://github.com/Vaya-Abhi/PortfolioProject-2-Amazon-Data-Scraping/assets/10281805/aeaaaca0-f4cc-4cb8-b0bd-fcb7e95c103d">
 
