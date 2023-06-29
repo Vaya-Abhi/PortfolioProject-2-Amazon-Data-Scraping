@@ -8,5 +8,11 @@ Through thorough exploration and visualization of the extracted data, I identifi
 
 By documenting this data analysis project on GitHub, I hope to showcase my skills in data extraction, manipulation, and analysis using Python. This project not only demonstrates my passion for tennis but also highlights my ability to utilize data-driven insights to make informed choices.
 
+The first analysis looks at the approach to capturing Product details from a single product page and then storing it in a CSV file.
+
+In Analysis 2, we look at how URLs for multiple product listings on the Amazon search page can be captured and stored in a list. After capturing multiple URLs we then iterate through each product page to capture product details. In this analysis, we are only capturing product URLs from a single page of the listing.
+
+Analysis 3 focuses on looping through multiple pages of product listings and capturing the product details. The code is also organized and cleaned in this file.
+
 <img width="490" alt="image" src="https://github.com/Vaya-Abhi/PortfolioProject-2-Amazon-Data-Scraping/assets/10281805/a681d63d-5b0b-456b-9737-9f4961087b61"><img width="932" alt="image" src="https://github.com/Vaya-Abhi/PortfolioProject-2-Amazon-Data-Scraping/assets/10281805/aeaaaca0-f4cc-4cb8-b0bd-fcb7e95c103d">
 
